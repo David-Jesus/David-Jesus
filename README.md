@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, i'm David 👋
 
+- ⚡**Technology enthusiast looking to improve people's lives through technology**
+
+- Student SENAI in Blumenau (**analysis and systems development**)
 <!--
 **David-Jesus/David-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
