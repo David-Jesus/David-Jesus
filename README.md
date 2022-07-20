@@ -65,16 +65,19 @@
 
 
 ## Connect with me  
-<a href="https://github.com/David-Jesus" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<div align="center">
+  <a href = "mailto:david_j_oliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/david-de-jesus-oliveira-b20b8b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=David-Jesus&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Jesus&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Jesus&layout=compact&langs_count=7&theme=radical" align="center"/>
+</div>
 
 
 
