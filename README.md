@@ -6,7 +6,7 @@
   
   
 
-- 🏡I'am live in Blumenau, Santa Catarina - Brazil.  
+- 🏡I'm live in Blumenau, Santa Catarina - Brazil.  
   
 
 <br/>  
